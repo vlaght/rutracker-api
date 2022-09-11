@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rutracker-api"
-version = "0.22.9"
+version = "0.22.92"
 description = "Rutracker API provider"
 authors = ["Vladislav Boyko <v1aght@ya.ru>"]
 readme = "README.md"
