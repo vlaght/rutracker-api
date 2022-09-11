@@ -1,13 +1,10 @@
 # rutracker-api
-(Work In Progress)  An easy-to-use package for finding torrents on Rutracker.org
+Fork of https://github.com/raitonoberu/rutracker-api
 
-## Installation
-```bash
-git clone https://github.com/raitonoberu/rutracker-api
-cd rutracker-api
-pip install -r requirements.txt
-cp -r rutracker_api *your project folder*
-```
+# Requirements
+    - python3-lxml
+    - beautifulsoup4
+    - requests
 
 ## Usage
 ```python
